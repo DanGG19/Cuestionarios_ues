@@ -1,0 +1,39 @@
+DERIVA 2.0 — MATEMÁTICA IV · ECUACIONES DIFERENCIALES
+====================================================
+
+INICIO
+1. Descomprime todo el ZIP conservando la carpeta "materiales".
+2. Abre "index.html" en Chrome, Edge o Firefox.
+3. No requiere Internet ni instalación.
+
+CONTENIDO
+- 19 lecciones con teoría, métodos y ejemplos paso a paso que explican
+  qué operación se aplica y por qué se aplica.
+- 41 preguntas de práctica y simulacros.
+- Constructor: permite crear y resolver ejercicios con coeficientes y
+  condiciones iniciales. Resuelve cuatro familias:
+  * lineal de primer orden con coeficientes constantes: y' + a y = b
+  * separable: y' = k x^n y (n entero de 0 a 8)
+  * lineal homogénea de segundo orden: A y'' + B y' + C y = 0
+  * PVI lineal de primer orden por transformada de Laplace.
+- Entrada de texto matemática limitada a las estructuras anteriores, por
+  ejemplo: y'+2y=6, y(0)=1
+  o: y''-6y'+5y=0, y(0)=2, y'(0)=6
+  NO interpreta ni resuelve cualquier ecuación matemática arbitraria.
+- Herramientas con calculadoras explicadas de factorización cuadrática,
+  triángulo rectángulo y trigonometría; formulario con 12 técnicas y
+  errores comunes.
+- Biblioteca: 13 guías + 4 parciales originales en PDF.
+- Historial de ejercicios creados, notas y progreso local.
+
+DATOS
+Los datos se guardan en el almacenamiento local del navegador.
+No se usan servidores. El historial puede perderse al borrar los datos
+locales o cambiar de navegador. Puedes exportar el progreso en Biblioteca.
+
+PRECISIÓN
+En ecuaciones con raíces irracionales o constantes no racionales
+se presentan aproximaciones decimales en algunos resultados; cuando
+se requiera exactitud simbólica, contrasta con la guía del curso.
+
+VERSIÓN: 2.0 · Aplicación local independiente.
