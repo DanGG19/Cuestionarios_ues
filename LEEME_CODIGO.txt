@@ -1,0 +1,23 @@
+DERIVA 4 · CÓDIGO EDITABLE
+
+Archivos:
+- index.template.html: plantilla HTML de la versión autónoma.
+- style.css: estilos, tipografías académicas y diseño responsive.
+- data.js: datos originales de las 19 lecciones y preguntas.
+- explain.js: explicaciones y casos de apoyo.
+- training.js: banco y niveles de simulacro.
+- solver.js: solucionadores numéricos simbólico-limitados y herramientas.
+- app.js: navegación, constructor, cuestionarios, pruebas, cuaderno y progreso.
+- vendor/tex-svg.js: biblioteca MathJax local.
+- build.py: genera index.html independiente combinando los archivos.
+
+Ejecuta en esta carpeta: python build.py
+Ninguna dependencia de Python es requerida.
+
+No elimines el comentario /* INJECT_TRAIN */ en la plantilla; el compilador
+inserta las dependencias en ese lugar.
+
+PRECAUCIONES
+No se evalúan matemáticamente expresiones arbitrarias escritas por el usuario.
+Las respuestas abiertas se revisan con la solución de referencia y autocorrección.
+El progreso se guarda localmente, vinculado al origen del navegador.
